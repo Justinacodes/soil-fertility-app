@@ -1,10 +1,8 @@
-import React from 'react'
-import { SoilAdvisorClient } from './components/soilAdvisorClient'
+import Image from "next/image";
+import SoilAdvisorClient from "./components/soilAdvisorClient";
 
-const page = () => {
+export default function Home() {
   return (
-    <SoilAdvisorClient />
-  )
+<SoilAdvisorClient />
+  );
 }
-
-export default page;
