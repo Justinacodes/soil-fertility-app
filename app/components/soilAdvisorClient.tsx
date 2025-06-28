@@ -373,7 +373,7 @@ export default function SoilAdvisorClient() {
         {/* Header */}
         <div className="text-center mb-8">
           <h1 className="text-5xl font-bold bg-gradient-to-r from-emerald-600 via-blue-600 to-indigo-600 bg-clip-text text-transparent mb-4">
-            Soil Fertility Advisor
+            YieldUp
           </h1>
           <p className="text-xl text-gray-600">Professional soil analysis & fertilizer guidance</p>
         </div>
